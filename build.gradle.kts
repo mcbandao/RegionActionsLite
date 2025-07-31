@@ -33,6 +33,7 @@ taboolib {
 }
 
 repositories {
+    maven("https://repo.tabooproject.org/repository/releases/")
     mavenCentral()
 }
 
